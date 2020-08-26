@@ -1,0 +1,31 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "I love REACT"
+      },
+      {
+        "id": 2,
+        "title": "I love JS"
+      },
+      {
+        "id": 3,
+        "title": "I love Wine"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment REACT",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment JS",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
