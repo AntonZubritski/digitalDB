@@ -34,12 +34,12 @@
     "columns": [
       { 
         "title": "Id", 
-        "dataIndex": 'id', 
+        "dataIndex": "id", 
         "key": "id" 
       },
       { 
         "title": "Title",
-        "dataIndex": 'title', 
+        "dataIndex": "title", 
         "key": "title" 
       },
       { 
@@ -49,7 +49,7 @@
       {
         "title": "Action",
         "dataIndex": "",
-        "key": 'x',
+        "key": "x",
         "render": "() => <a>Delete</a>",
       }
     ]
