@@ -30,27 +30,5 @@
     ],
     "profile": {
       "name": "typicode"
-    },
-    "columns": [
-      { 
-        "title": "Id", 
-        "dataIndex": "id", 
-        "key": "id" 
-      },
-      { 
-        "title": "Title",
-        "dataIndex": "title", 
-        "key": "title" 
-      },
-      { 
-        "title": "Body", 
-        "dataIndex": "body", 
-        "key": "body" },
-      {
-        "title": "Action",
-        "dataIndex": "",
-        "key": "x",
-        "render": () => <a>Delete</a>
-      }
-    ]
+    }
   }
