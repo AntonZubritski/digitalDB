@@ -1,14 +1,19 @@
 {
     "posts": [
       {
+        "id": 19652,
+        "title": "Belarus",
+        "body": "Belarus authorities have deported some foreign journalists and withdrawn the accreditations of several others reporting on the unrest, news organisations said on Saturday. The Associated Press news agency said two of its journalists who were covering the recent protests in Belarus were deported to Russia on Saturday.k"  
+      },
+      {
         "id": 13632,
         "title": "I love REACT",
         "body": "JavaScript-библиотека с открытым исходным кодом для разработки пользовательских интерфейсов. React разрабатывается и поддерживается Facebook"  
       },
       {
         "id": 58095,
-        "title": "I love JS",
-        "body": "Ультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили. Является реализацией стандарта ECMAScript" 
+        "title": "Give us a chance",
+        "body": "Edi Rama, Albanian PM and chairperson-in-office of the Organisation for Security and Cooperation in Europe (OSCE), said the organisation must help mediate the political crisis in Belarus as soon as possible." 
       },
       {
         "id": 28517,
@@ -17,33 +22,23 @@
       },
       {
         "id": 58475,
-        "title": "I love JS",
-        "body": "Ультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили. Является реализацией стандарта ECMAScript" 
+        "title": "anti-COVID",
+        "body": "Police in Berlin broke up a protest against coronavirus curbs on Saturday and arrested 300 people after demonstrators failed to social distance and wear masks, as other European cities held similar "anti-COVID" marches." 
       },
       {
         "id": 28557,
-        "title": "I love Wine",
-        "body": "Алкогольный напиток (крепость: натуральных — 9—16 % об., креплёных — 16—22 % об.), получаемый полным или частичным спиртовым брожением" 
+        "title": "Montenegro",
+        "body": "On the eve of the poll, police arrested a cabal of alleged Russian agents, Serbs and Montenegrin nationals that had planned to stage a coup d’etat, kill the country’s prime minister, Milo Djukanovic, and bring a pro-Moscow government to power." 
       },
       {
         "id": 38095,
-        "title": "I love JS",
-        "body": "Ультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили. Является реализацией стандарта ECMAScript" 
+        "title": "Coronavirus",
+        "body": "Global coronavirus cases have surged past 25 million, according to the to the Johns Hopkins University on Sunday. The university's tracker said 842,702 people have died from the virus worldwide." 
       },
       {
         "id": 28577,
-        "title": "I love Wine",
-        "body": "Алкогольный напиток (крепость: натуральных — 9—16 % об., креплёных — 16—22 % об.), получаемый полным или частичным спиртовым брожением" 
-      },
-      {
-        "id": 58093,
-        "title": "I love JS",
-        "body": "Ультипарадигменный язык программирования. Поддерживает объектно-ориентированный, императивный и функциональный стили. Является реализацией стандарта ECMAScript" 
-      },
-      {
-        "id": 28917,
-        "title": "I love Wine",
-        "body": "Алкогольный напиток (крепость: натуральных — 9—16 % об., креплёных — 16—22 % об.), получаемый полным или частичным спиртовым брожением" 
+        "title": "Arctic",
+        "body": "The Arctic is undergoing an unprecedented ecological transition that will have an impact far beyond the region." 
       },
       {
         "id": 58045,
